@@ -1,0 +1,3 @@
+Repositorio: es donde se guarda algo, en este caso es donde se almacena y se organiza un proyecto de programación, que incluye archivos y el historial de los cambios que se hagan.
+Commit: es una acción que guarde de manera permanente como una fotografía, en donde queda el registro de todos los cambios realizados de un proyecto de programación.
+Push: Es la acción de enviar los cambios guardados desde la computadora local hacia un repositorio remoto, como GitHub.
