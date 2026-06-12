@@ -1,0 +1,3 @@
+El comando whoami muestra el nombre del usuario que está utilizando el sistema en ese momento, es decir, ayuda a saber con qué cuenta estoy trabajando dentro del computador.
+El comando systeminfo muestra información general del sistema operativo y del equipo, como la versión de Windows, el tipo de procesador, la memoria y otros datos importantes del computador.
+Esta información es útil porque permite conocer mejor el entorno donde estoy trabajando, lo cual ayuda a entender el sistema y a solucionar problemas o administrarlo de forma más fácil.

@@ -1,0 +1,5 @@
+1. No compartir información personal sensible dentro de la plataforma para proteger la privacidad de los usuarios.
+2. Usar contraseñas seguras y cambiarlas periódicamente para evitar accesos no autorizados.
+3. Controlar los permisos de los usuarios para que cada uno solo pueda hacer lo que le corresponde.
+4. Registrar los accesos y actividades para poder hacer seguimiento en caso de problemas o errores.
+5. Usar canales oficiales y seguros para enviar información y evitar la difusión de datos falsos o rumores.
