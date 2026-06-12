@@ -1,0 +1,8 @@
+Al realizar la consulta GET a la ruta /reportes, el servidor nos devuelve un array de objetos con el reporte que acabamos de registrar:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
