@@ -1,0 +1,6 @@
+Las metodologías ágiles son fundamentales para organizar y dinamizar procesos de participación ciudadana porque facilitan la comunicación rápida, transparente y asertiva entre los miembros de la comunidad y los coordinadores.
+Al utilizar un enfoque ágil basado en iteraciones cortas, el equipo puede adaptarse a los cambios constantes y priorizar las necesidades reales y urgentes de los ciudadanos de manera efectiva.
+El uso de un backlog permite tener claridad sobre las tareas a realizar y asegura que nada se pierda.
+Por otro lado, la automatización de tareas repetitivas, como el envío de notificaciones mediante herramientas como n8n, libera tiempo valioso que puede invertirse en el análisis y solución de las incidencias reportadas en lugar de en procesos manuales y tediosos.
+Adicionalmente, Telegram actúa como un canal accesible, seguro y directo para coordinar esfuerzos, convocar reuniones y mantener a todos los involucrados informados en tiempo real.
+En conjunto, estas herramientas tecnológicas y metodologías de trabajo fomentan la colaboración activa, la trazabilidad transparente de los casos, la seguridad de la información no sensible y permiten construir soluciones tecnológicas de impacto social de forma mucho más eficiente y ordenada.
