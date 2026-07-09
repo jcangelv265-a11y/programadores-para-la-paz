@@ -1,0 +1,5 @@
+La interfaz tendría una sección dedicada a la creación de nuevas causas, la cual contaría con un formulario donde los usuarios pueden ingresar un título, una descripción detallada y la fecha de la causa.
+Además, habría una página principal que funcionaría como un listado de todas las causas disponibles, presentadas en forma de tarjetas para que los usuarios puedan leerlas fácilmente.
+Dentro de cada tarjeta de causa, habría un botón de apoyo que los usuarios autenticados podrían presionar para registrar su participación.
+Junto a este botón, se incluiría un contador de apoyos visible públicamente que mostraría el número total de personas que han apoyado la iniciativa.
+La interfaz debe tener un diseño claro, intuitivo y amigable, garantizando que en ningún momento se muestre información privada de los usuarios que han creado o apoyado las causas.

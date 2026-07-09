@@ -1,0 +1,6 @@
+Una plataforma tecnológica que promueve la participación ciudadana debe contar con una base de datos sólida porque es esencial almacenar de manera estructurada y segura toda la información de las causas, apoyos y usuarios registrados.
+La autenticación de usuarios es igualmente crítica, ya que permite identificar quién está interactuando con la plataforma, otorgando permisos adecuados y previniendo que actores malintencionados alteren o eliminen información valiosa de la comunidad.
+Sin autenticación, sería imposible hacer un seguimiento responsable y trazar el origen de los reportes o iniciativas de forma segura.
+Por último, la protección de la información es un pilar innegociable; los ciudadanos confían sus datos a la plataforma con la expectativa de que su privacidad será respetada en todo momento.
+Exponer datos sensibles podría generar graves riesgos de seguridad personal o desincentivar la participación.
+En conjunto, estos elementos técnicos garantizan que la plataforma sea un espacio seguro, confiable y verdaderamente útil para el empoderamiento y la coordinación comunitaria.
