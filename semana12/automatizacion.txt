@@ -1,0 +1,10 @@
+Automatización simple usando Telegram
+
+- Evento que activa la automatización: 
+  Un ciudadano registra una nueva causa en la plataforma "Petición en 3 Clics" o se genera exitosamente el documento PDF de una petición finalizada.
+
+- Mensaje que se envía: 
+  "🔔 ¡Atención Comunidad! Se ha registrado una nueva causa en la plataforma. Ingresa ahora para conocer los detalles y brindar tu apoyo."
+
+- Información que NO debe enviarse por seguridad: 
+  Números de cédula o documentos de identidad, números telefónicos, direcciones residenciales, correos electrónicos, datos bancarios o cualquier otro tipo de información personal sensible de los ciudadanos.

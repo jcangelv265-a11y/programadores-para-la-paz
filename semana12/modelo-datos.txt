@@ -1,0 +1,17 @@
+Modelo Básico de Datos
+
+1. Entidad: Causa
+- id (Identificador único de la causa)
+- titulo (Nombre principal o título de la causa)
+- descripcion (Detalle y objetivo de la causa)
+- fecha (Fecha en la que se creó el registro)
+
+Explicación: Esta entidad sirve para almacenar de forma estructurada la información de la iniciativa o petición que se está promoviendo. Permite que los usuarios puedan identificar rápidamente qué están apoyando.
+
+2. Entidad: Apoyo
+- id (Identificador único del registro de apoyo)
+- causa_id (Referencia a la causa que se está apoyando)
+- nombre (Nombre de la persona que brinda el apoyo)
+- fecha (Fecha y hora en que se registró el apoyo)
+
+Explicación: Esta entidad permite vincular a las personas con las causas que respaldan. Almacena únicamente el nombre para registrar el apoyo sin capturar datos sensibles, garantizando así la privacidad y minimización de datos.
